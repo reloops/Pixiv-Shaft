@@ -63,7 +63,7 @@
 
 ## 5.在 Github 上获取
 
-[Releases](https://github.com/CeuiLiSA/Pixiv-Shaft/releases/latest)
+[Releases](https://github.com/reloops/Pixiv-Shaft/releases/latest)
 
 ## 6.常见问题 FAQ
 
