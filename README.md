@@ -1,4 +1,4 @@
-# Shaft (Pixiv 第三方客户端)
+# Shaft (Pixiv 第三方客户端)在原版4.2.4的基础上增加了单词替换功能
 [![release](https://img.shields.io/github/v/release/CeuiLiSA/Pixiv-Shaft)](https://github.com/CeuiLiSA/Pixiv-Shaft/releases/latest)
 [![build status](https://img.shields.io/github/actions/workflow/status/CeuiLiSA/Pixiv-Shaft/gradle.yml?branch=master)](https://github.com/CeuiLiSA/Pixiv-Shaft/actions)
 [![open issues](https://img.shields.io/github/issues/CeuiLiSA/Pixiv-Shaft?color=brightgreen)](https://github.com/CeuiLiSA/Pixiv-Shaft/issues?q=is%3Aopen+is%3Aissue)
