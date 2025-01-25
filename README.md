@@ -1,8 +1,5 @@
 # Shaft (Pixiv 第三方客户端)在原版4.2.4的基础上增加了单词替换功能
-[![release](https://img.shields.io/github/v/release/CeuiLiSA/Pixiv-Shaft)](https://github.com/CeuiLiSA/Pixiv-Shaft/releases/latest)
-[![build status](https://img.shields.io/github/actions/workflow/status/CeuiLiSA/Pixiv-Shaft/gradle.yml?branch=master)](https://github.com/CeuiLiSA/Pixiv-Shaft/actions)
-[![open issues](https://img.shields.io/github/issues/CeuiLiSA/Pixiv-Shaft?color=brightgreen)](https://github.com/CeuiLiSA/Pixiv-Shaft/issues?q=is%3Aopen+is%3Aissue)
-[![license](https://img.shields.io/github/license/CeuiLiSA/Pixiv-Shaft)](https://github.com/CeuiLiSA/Pixiv-Shaft/blob/master/LICENSE)
+[![release](https://img.shields.io/github/v/release/CeuiLiSA/Pixiv-Shaft)](https://github.com/reloops/Pixiv-Shaft/releases/latest)
 
 [日本語(日文)](https://github.com/CeuiLiSA/Pixiv-Shaft/blob/master/README/README.ja.md)
 
